@@ -1,5 +1,5 @@
 {
-    "name": "fudaoji/composer-demo",
+    "name": "fudaoji/ky",
     "require": {
         "monolog/monolog": "1.0.*"
     }
