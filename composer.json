@@ -1,0 +1,20 @@
+{
+    "name": "fudaoji/ky",
+    "description": "php tools",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ky\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fdj",
+            "email": "461960962@qq.com"
+        }
+    ]
+}
